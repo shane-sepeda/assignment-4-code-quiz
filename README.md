@@ -2,7 +2,7 @@
 Shane Sepeda
 
 # Description
-A professional portfolio to display work samples to potential employers so that they can assess whether I may a be a good candidate for an open position.
+
 
 # User Story
 AS A coding boot camp student
