@@ -10,21 +10,29 @@
 
     <!-- Begin Body -->
     <body>
+        <!-- Header Section -->
         <header>
             <h1>Code Quiz®</h1>
         </header>
+        <!-- End Header Section -->
 
-        <main>
+        <!-- Content Sections -->
+        <main id="content">
             <section>
+                <h2 id="timer">Time Remaining: </h2>
                 <h2>Here is your challenge:</h2>
-                <button></button>
-                
+                <button class="btn" type="submit" id="start">Start</button>
             </section>
-            <section>
 
+            <section class="quiz" id="quiz">
+                <div class="question" id="question"></div>
+                <div class="choices" id="choices"></div>
+                <div id="input"></div>
+                <div class="score" id="score"></div>
             </section>
         </main>
-
-        <script src=".assets/js/script.js"></script>
+        <!-- End Content Section -->
+        
+        <script src="./assets/js/script.js"></script>
     </body>
     <!-- End Body -->

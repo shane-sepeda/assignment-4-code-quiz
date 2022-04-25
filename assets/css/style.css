@@ -5,17 +5,40 @@ header {
 }
 
 main {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .quiz {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    font-weight: bolder;
 }
 
+.timer {
+    display: flex;
+    align-items: center;
+}
 
 .choices {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
 }
 
 .choice  {
+    width: 200px;
+    height: 100px;
+    font-weight: bolder;
+    background-color: black;
+    color: whitesmoke;
 }
 
 .btn {
+    width: 90px;
+    height: 20px;
+    font-weight: bolder;
+    background-color: black;
+    color: white;
 }
