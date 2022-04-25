@@ -2,7 +2,7 @@
 Shane Sepeda
 
 # Description
-
+A timed coding quiz to showcase JavaScript fundamentals
 
 # User Story
 AS A coding boot camp student
@@ -23,9 +23,13 @@ WHEN the game is over
 THEN I can save my initials and score
 
 # assets
+HTML (.index.html)
+CSS (./assets/css/style.css)
+JS (./assets/js/script.js)
 
 # Screenshot
-
+(./assets/images/screenshot.png)
 # Repository
+https://github.com/shane-sepeda/assignment-4-code-quiz
 
 # Deployed webpage
