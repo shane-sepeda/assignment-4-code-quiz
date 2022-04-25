@@ -33,3 +33,4 @@ JS (./assets/js/script.js)
 https://github.com/shane-sepeda/assignment-4-code-quiz
 
 # Deployed webpage
+https://shane-sepeda.github.io/assignment-4-code-quiz/
