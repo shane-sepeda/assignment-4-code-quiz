@@ -1,4 +1,7 @@
 header {
+    display: flex;
+    align-items: center;
+    padding: 20 50;
 }
 
 main {
